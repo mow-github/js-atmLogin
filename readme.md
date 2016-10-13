@@ -13,12 +13,12 @@
 2.1 Enter the digits with the mouse or keyboard
 
 ###### Notes:
-1. The page displays a custom popup error / success box with a timer functionality
-2. Reset btn: begin from scratch
-3. Ok btn: Validates the string against the hardcoded example
-3.1 error msg if the string has not a length of 4.
-3.2 error msg if one does not enter a digit 1-9
-3.3 success msg if one enter the correct number
+* The page displays a custom popup error / success box with a timer functionality
+* Reset btn: begin from scratch
+* Ok btn: Validates the string against the hardcoded example
+* error msg if the string has not a length of 4.
+* error msg if one does not enter a digit 1-9
+* success msg if one enter the correct number
 
 
 
