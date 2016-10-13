@@ -10,7 +10,7 @@
 
 1. Open index.html
 2. Enter the correct sequence of digits ("1234") and click OK
-2.1 Enter the digits with the mouse or keyboard
+3. Enter the digits with the mouse or keyboard
 
 ###### Notes:
 * The page displays a custom popup error / success box with a timer functionality
